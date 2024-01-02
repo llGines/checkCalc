@@ -1,2 +1,2 @@
 # checkCalc
-exercices for testing automathic corerctions
+exercices for testing automathic corrections
